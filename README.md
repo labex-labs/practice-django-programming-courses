@@ -6,8 +6,8 @@
 
 Django is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern. It is maintained by the Django Software Foundation, an independent organization established as a 501 non-profit.
 
-|   Index | Name                                                | Level   | Repo                                                             | Course Link                                                           |
-|---------|-----------------------------------------------------|---------|------------------------------------------------------------------|-----------------------------------------------------------------------|
+|   Index | Name                                                | Level   | Repo                                                            | Course Link                                                          |
+|---------|-----------------------------------------------------|---------|-----------------------------------------------------------------|----------------------------------------------------------------------|
 |       1 | [Quick Start with Django](#quick-start-with-django) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-django) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-django) |
 
 ## More Courses
